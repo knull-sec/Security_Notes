@@ -1,6 +1,7 @@
 # Notes
 
-Welcome to my security notes.
+My collection of notes and resources for Cyber Security.
 
-## Sections
-- Web Application Vulnerabilities
+## Categories
+
+- [Web Application Vulnerabilities](./web-application/)
