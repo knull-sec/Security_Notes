@@ -4,5 +4,5 @@ My collection of notes and resources for Cyber Security.
 
 ## Categories
 
-- [Web Application Security](./web-application/)
+- [Web Application Security](Web_App_Security)
 - [API Secuirty](./AP)
