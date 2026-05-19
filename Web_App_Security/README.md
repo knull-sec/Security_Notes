@@ -2,6 +2,6 @@
 
 ## Web Application Vulnerabilities
 
-- [Authentication Vulnerabilities](Web_App_Security/Web_APP_Vulnerabilities/Authentication.md)
+- [Authentication Vulnerabilities](./Web_APP_Vulnerabilities/Authentication.md)
 - [SQL Injection](./sql-injection.md) 
 - [Cross-Site Scripting (XSS)](./xss.md) 
