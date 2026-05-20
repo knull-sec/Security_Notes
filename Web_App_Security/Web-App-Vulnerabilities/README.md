@@ -2,5 +2,5 @@
 
 ## Topics
 
-- [Authentication Vulnerabilities](./authentication.md)
-- [SQL Injection](./sql-injection.md) *(Coming Soon)*
+- [Authentication Vulnerabiliti](.Authentication/authentication.md)
+- [SQL Injection](./) 
